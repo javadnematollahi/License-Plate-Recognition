@@ -63,6 +63,7 @@ If you look at fourth column in below picture you can see the result of plate ve
 
 In first row my code return True because this plate was defined in my database but other rows have False because they weren't defined in database.
 
+![Verification](https://github.com/javadnematollahi/Plate_identification_and_verification_YOLO_DTRB/assets/86910174/f9c8a122-c6e2-4b1e-86ba-dba37531215c)
 
 
 
